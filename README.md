@@ -130,8 +130,10 @@ Python GPU scheduling and capacity-planning toolkit for workload placement, mult
 ---
 
 ## 🌐 Connect with Me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/oladimejioladipo-k8s-cloud-platform-gen-aiengineer) [![Gmail][image1]](mailto:oladimeji.oladipo.a@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oladimeji-oladipo) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oladimeji.oladipo.a@gmail.com)
+(https://www.linkedin.com/in/oladimejioladipo-k8s-cloud-platform-gen-aiengineer) [![Gmail][image1]](mailto:oladimeji.oladipo.a@gmail.com)
 
 ---
 
