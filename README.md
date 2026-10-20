@@ -65,23 +65,23 @@ Designed a GitOps-driven service model where teams select an approved model runt
 
 ## 📂 Other Projects
 
-### **Resume Tailor Pro**
+### **GPU Observability Stack**
 
-Python-based tool for tailoring resumes to job descriptions.
+GPU observability reference using NVIDIA DCGM, Prometheus, Grafana and Kubernetes operational telemetry.
 
-- 🔗 [View Project](https://github.com/jedi132000/resume-tailor-pro)
+- 🔗 [View Project](https://github.com/jedi132000/gpu-observability-stack)
 
-### **Scalable Resilient Web App**
+### **GPU Kuberenetes Platform**
 
-Hands-on project exploring scalable, fault-tolerant web application architecture.
+GPU-aware Kubernetes infrastructure reference with Terraform, NVIDIA GPU Operator, scheduling controls and operational validation.
 
-- 🔗 [View Project](https://github.com/jedi132000/scalable-resilient-web-app)
+- 🔗 [View Project](https://github.com/jedi132000/gpu-kubernetes-platform)
 
-### **My First AWX Project**
+### **GPU Scheduler Capacity Lab**
 
-Early hands-on work with Ansible AWX for automated deployment workflows.
+Python GPU scheduling and capacity-planning toolkit for workload placement, multi-tenant quotas and accelerator resource analysis.
 
-- 🔗 [View Project](https://github.com/jedi132000/my-first-awx-project)
+- 🔗 [View Project](https://github.com/jedi132000/gpu-scheduler-capacity-lab)
 
 ---
 
