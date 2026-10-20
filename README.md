@@ -37,9 +37,6 @@ I'm a **Lead Site Reliability & Platform Engineer** with 12+ years across AWS, A
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-## 💻 Tech Stack
-
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
@@ -130,10 +127,8 @@ Python GPU scheduling and capacity-planning toolkit for workload placement, mult
 ---
 
 ## 🌐 Connect with Me
-## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oladimeji-oladipo) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oladimeji.oladipo.a@gmail.com)
-(https://www.linkedin.com/in/oladimejioladipo-k8s-cloud-platform-gen-aiengineer) [![Gmail][image1]](mailto:oladimeji.oladipo.a@gmail.com)
 
 ---
 
