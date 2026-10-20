@@ -37,7 +37,18 @@ I'm a **Lead Site Reliability & Platform Engineer** with 12+ years across AWS, A
 
 ## 💻 Tech Stack
 
-[![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg)](https://kubernetes.io/) [![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)](https://aws.amazon.com/) [![Azure](https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg)](https://azure.microsoft.com/) [![GCP](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)](https://cloud.google.com/) [![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg)](https://www.terraform.io/) [![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/) [![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg)](https://www.jenkins.io/) [![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg)](https://git-scm.com/) [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/) [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+## 💻 Tech Stack
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 
 **Core Skills:** Kubernetes | AWS | Azure | GCP | Terraform | ArgoCD | GitOps | CI/CD Pipelines | Docker | Jenkins | Python | Bash | Prometheus | Grafana | OpenTelemetry | NVIDIA GPU Operator | vLLM | Triton | KServe | NVIDIA NIM
 
