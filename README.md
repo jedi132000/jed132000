@@ -38,6 +38,7 @@ I'm a **Lead Site Reliability & Platform Engineer** with 12+ years across AWS, A
 ## 💻 Tech Stack
 
 ## 💻 Tech Stack
+## 💻 Tech Stack
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
@@ -45,12 +46,14 @@ I'm a **Lead Site Reliability & Platform Engineer** with 12+ years across AWS, A
 [![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/)
+[![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/nvidia-nim)
+[![Slurm](https://img.shields.io/badge/Slurm-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)](https://slurm.schedmd.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 
-**Core Skills:** Kubernetes | AWS | Azure | GCP | Terraform | ArgoCD | GitOps | CI/CD Pipelines | Docker | Jenkins | Python | Bash | Prometheus | Grafana | OpenTelemetry | NVIDIA GPU Operator | vLLM | Triton | KServe | NVIDIA NIM
+**Core Skills:** Kubernetes | AWS | Azure | GCP | Terraform | ArgoCD | GitOps | CI/CD Pipelines | Docker | ArgoCD | Python | Bash | Prometheus | Grafana | OpenTelemetry | NVIDIA GPU Operator | vLLM | Triton | KServe | NVIDIA NIM
 
 ---
 
