@@ -90,9 +90,10 @@ Early hands-on work with Ansible AWX for automated deployment workflows.
 - **AWS Solutions Architect – Professional** — Amazon Web Services  
 - **Multicloud Network Associate** — Aviatrix (valid to Oct 2027\)  
 - **GitOps at Scale Certificate** — Codefresh  
-- **Cilium Host Firewall** — NVIDIA  
-- **Cilium LoadBalancer IPAM and BGP Service Advertisement** — NVIDIA  
-- **Cilium Multi Networking** — NVIDIA
+- **Cilium Host Firewall** — ISOVALENT  
+- **Cilium LoadBalancer IPAM and BGP Service Advertisement** — ISOVALENT  
+- **Cilium Multi Networking** — ISOVALENT
+- **NVIDIA Certified Associate - AI Infrastructure & Operations** — NVIDIA
 
 ---
 
