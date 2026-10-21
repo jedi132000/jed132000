@@ -105,6 +105,7 @@ Python GPU scheduling and capacity-planning toolkit for workload placement, mult
 - **Cilium LoadBalancer IPAM and BGP Service Advertisement** — ISOVALENT  
 - **Cilium Multi Networking** — ISOVALENT
 - **NVIDIA Certified Associate - AI Infrastructure & Operations** — NVIDIA
+- **NVIDIA Certified Professional - AI Infrastructure** — NVIDIA
 
 ---
 
