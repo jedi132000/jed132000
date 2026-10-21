@@ -1,6 +1,6 @@
 # Hey Everyone 👋\! I'm Oladimeji Oladipo
 
-### Lead Site Reliability & Platform Engineer @ TCS | Kubernetes · GPU Infrastructure · AI Inference Platforms   Scaling multi-cloud platforms and bringing that same reliability discipline to GPU/AI workloads
+### Lead Site Reliability & Platform Engineer | Kubernetes · GPU Infrastructure · AI Inference Platforms   Scaling multi-cloud platforms and bringing that same reliability discipline to GPU/AI workloads
 
 ## 🚀 About Me
 
